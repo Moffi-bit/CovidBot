@@ -1,4 +1,3 @@
-// https://buddy.works/tutorials/how-to-build-a-discord-bot-in-node-js-for-beginners
 import DiscordJS, { Client, Intents } from 'discord.js'
 import dotenv from 'dotenv'
 import { parse } from 'csv-parse'
