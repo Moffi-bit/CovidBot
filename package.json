@@ -1,0 +1,20 @@
+{
+  "name": "discordbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.1.0",
+    "csv-parser": "^3.0.0",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1",
+    "got": "^12.1.0"
+  }
+}
